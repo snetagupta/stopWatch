@@ -1,0 +1,13 @@
+ 
+.stopwatch {
+    text-align: center;
+    padding: 80px; 
+  }
+  
+  .stopwatch button {
+    margin-left: 10px;
+    padding: 12px;
+    font-size: 15px;
+    cursor: pointer;
+  }
+   
